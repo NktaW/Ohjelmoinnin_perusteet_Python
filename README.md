@@ -1,2 +1,2 @@
-# PythonBasics
-Practice
+# Python ohjelmoinnin perusteet
+Viikko tehtävät.
